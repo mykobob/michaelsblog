@@ -69,4 +69,4 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: heroku
-  repo: https://git.heroku.com/powerful-plains-13579.git
+  repo: https://git.heroku.com/michaelsblog.git
